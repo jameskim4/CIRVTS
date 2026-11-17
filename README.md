@@ -189,8 +189,8 @@ This project is developed by **Team 1 Cybersecurity**.
 | Team Member      | Responsibilities                                             |
 | ---------------- | ------------------------------------------------------------ |
 | James Kim        | Database requirements and preliminary normalization analysis |
-| Ni Jin           | To be confirmed                                              |
-| Amine Belhayania | To be confirmed                                              |
+| Ni Jin           | SQL files and Sample data                                              |
+| Amine Belhayania | Diagram                                             |
 
 Team members collaborate on project planning, database design, documentation, and implementation.
 
